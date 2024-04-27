@@ -6,7 +6,7 @@ In this repository I am learning MySQL and showing the growth journey from begin
 We'll be using the **parks_and_recreation** database, it has three tables inside it: <br>employee_demographics, employee_salary, parks_department. <br>You can download this database from the attachments on this repository.
 
 <p align = "center"> 
-How to use this tutorial
+## How to use this tutorial
 </p>
 <br>
 This tutorial is divided into three parts:<br><br>
